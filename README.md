@@ -18,3 +18,12 @@ Lista de cursos e certificações concluídas em TI e Cibersegurança.
 - **Descrição:** Curso sobre fundamentos da computação em nuvem, incluindo conceitos básicos, modelos de serviço (IaaS, PaaS, SaaS), modelos de implantação (nuvem pública, privada, híbrida) e benefícios como escalabilidade, elasticidade e economia de custos.  
 - **Imagem do Certificado:**  
 ![Certificado Infraestrutura de Nuvem](certificados/Infraestrutura_Nuvem.jpeg)
+
+---
+
+## Certified in Cybersecurity (CC)
+- **Plataforma:** ISC2  
+- **Descrição:** Certificação internacional que valida conhecimentos fundamentais em cibersegurança, incluindo princípios de segurança, controle de acesso, segurança de redes, operações de segurança e gestão de riscos. Demonstra base sólida para atuação inicial na área de segurança da informação.  
+- **Imagem do Certificado:**  
+![Certificado ISC2 Certified in Cybersecurity](certificados/isc2-candidate.png)
+
