@@ -27,3 +27,25 @@ Lista de cursos e certificações concluídas em TI e Cibersegurança.
 - **Imagem do Certificado:**  
 ![Certificado ISC2 Certified in Cybersecurity](certificados/isc2-candidate.png)
 
+Fortinet Certified Associate in Cybersecurity (FCA)
+
+**Plataforma: Fortinet
+Validade: Fev/2026 – Fev/2028
+Nível: Associate (equivalente aos antigos NSE 1, 2 e 3)
+
+Descrição:
+Certificação que valida conhecimentos intermediários em cibersegurança com foco em proteção de redes corporativas e operações de segurança (SOC). Abrange políticas de firewall, fundamentos de FortiGate, VPNs, controle de acesso, análise de ameaças, monitoramento e resposta a incidentes, além de boas práticas de segurança para ambientes corporativos.
+
+Fortinet Certified Associate in Cybersecurity (FCA)
+
+Plataforma: Fortinet
+
+Validade: Fev/2026 – Fev/2028
+
+Nível: Associate (equivalente aos antigos NSE 1, 2 e 3)
+
+Descrição: Certificação que valida conhecimentos intermediários em cibersegurança com foco em proteção de redes corporativas e operações de segurança (SOC). Abrange políticas de firewall, fundamentos de FortiGate, VPNs, controle de acesso, análise de ameaças, monitoramento e resposta a incidentes, além de boas práticas de segurança para ambientes corporativos.
+
+Imagem do Certificado:
+![Fortinet Certified Associate in Cybersecurity](certificados/Fortinet Certified Associate in Cybersecurity.png)
+
