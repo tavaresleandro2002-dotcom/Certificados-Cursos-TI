@@ -58,14 +58,13 @@ Certificação que valida conhecimentos intermediários em cibersegurança com f
 Perfeito! Seguindo esse modelo, o certificado da IBM fica assim:
 
 ---
-
 ## Introduction to Cybersecurity Essentials
 - **Plataforma:** IBM | Coursera
 - **Conclusão:** Mar/2026
 - **Nível:** Introdutório
 - **Descrição:** Curso que aborda os fundamentos de segurança cibernética, incluindo identificação de ameaças digitais, princípios de proteção de dados, gestão de senhas, autenticação multifator, navegação segura e conceitos básicos de criptografia.
 - **Imagem do Certificado:**  
-![Introduction to Cybersecurity Essentials](https://github.com/tavaresleandro2002-dotcom/tavaresleandro2002-dotcom/raw/main/Certificado_IBM_Cybersecurity_LEANDRO.png)
+![Introduction to Cybersecurity Essentials](https://github.com/tavaresleandro2002-dotcom/Certificados-Cursos-TI/raw/main/certificados/Certificado_IBM_Cybersecurity_LEANDRO.png)
 
 
 
