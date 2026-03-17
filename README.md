@@ -56,6 +56,14 @@ Certificação que valida conhecimentos intermediários em cibersegurança com f
 - **Imagem do Certificado:**  
 ![Fortinet Certified Fundamentals in Cybersecurity](certificados/WhatsApp%20Image%202026-02-19%20at%2014.31.55.jpeg)
 
+## Fortinet Certified Fundamentals in Cybersecurity (FCF)
+- **Plataforma:** Fortinet  
+- **Validade:** Fev/2026 – Fev/2028  
+- **Nível:** Fundamentals  
+- **Descrição:** Certificação que valida conhecimentos fundamentais de cibersegurança, incluindo princípios de confidencialidade, integridade e disponibilidade (CIA), identificação de ameaças e vetores de ataque, fundamentos de segurança de redes, criptografia básica, gestão de riscos, segurança de endpoints e boas práticas de proteção de ambientes digitais.  
+- **Imagem do Certificado:**  
+![Fortinet Certified Fundamentals in Cybersecurity](certificados/WhatsApp%20Image%202026-02-19%20at%2014.31.55.jpeg)
+
 
 
 
