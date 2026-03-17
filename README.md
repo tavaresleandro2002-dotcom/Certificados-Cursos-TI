@@ -69,4 +69,3 @@ Perfeito! Seguindo esse modelo, o certificado da IBM fica assim:
 
 
 
-
