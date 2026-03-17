@@ -55,14 +55,17 @@ Certificação que valida conhecimentos intermediários em cibersegurança com f
 - **Descrição:** Certificação que valida conhecimentos fundamentais de cibersegurança, incluindo princípios de confidencialidade, integridade e disponibilidade (CIA), identificação de ameaças e vetores de ataque, fundamentos de segurança de redes, criptografia básica, gestão de riscos, segurança de endpoints e boas práticas de proteção de ambientes digitais.  
 - **Imagem do Certificado:**  
 ![Fortinet Certified Fundamentals in Cybersecurity](certificados/WhatsApp%20Image%202026-02-19%20at%2014.31.55.jpeg)
+Perfeito! Seguindo esse modelo, o certificado da IBM fica assim:
 
-## Fortinet Certified Fundamentals in Cybersecurity (FCF)
-- **Plataforma:** Fortinet  
-- **Validade:** Fev/2026 – Fev/2028  
-- **Nível:** Fundamentals  
-- **Descrição:** Certificação que valida conhecimentos fundamentais de cibersegurança, incluindo princípios de confidencialidade, integridade e disponibilidade (CIA), identificação de ameaças e vetores de ataque, fundamentos de segurança de redes, criptografia básica, gestão de riscos, segurança de endpoints e boas práticas de proteção de ambientes digitais.  
+---
+
+## Introduction to Cybersecurity Essentials
+- **Plataforma:** IBM | Coursera
+- **Conclusão:** Mar/2026
+- **Nível:** Introdutório
+- **Descrição:** Curso que aborda os fundamentos de segurança cibernética, incluindo identificação de ameaças digitais, princípios de proteção de dados, gestão de senhas, autenticação multifator, navegação segura e conceitos básicos de criptografia.
 - **Imagem do Certificado:**  
-![Fortinet Certified Fundamentals in Cybersecurity](certificados/WhatsApp%20Image%202026-02-19%20at%2014.31.55.jpeg)
+![Introduction to Cybersecurity Essentials](imagens/certificado_IBM_Cybersecurity_LEANDRO.png)
 
 
 
