@@ -65,7 +65,7 @@ Perfeito! Seguindo esse modelo, o certificado da IBM fica assim:
 - **Nível:** Introdutório
 - **Descrição:** Curso que aborda os fundamentos de segurança cibernética, incluindo identificação de ameaças digitais, princípios de proteção de dados, gestão de senhas, autenticação multifator, navegação segura e conceitos básicos de criptografia.
 - **Imagem do Certificado:**  
-![Introduction to Cybersecurity Essentials](imagens/certificado_IBM_Cybersecurity_LEANDRO.png)
+![Introduction to Cybersecurity Essentials](Certificado_IBM_Cybersecurity_LEANDRO.png)
 
 
 
